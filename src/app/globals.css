@@ -21,10 +21,10 @@
   letter-spacing: 1px;
 }
 .nav {
-  backdrop-filter: blur(10px);
   z-index: 100;
   background: rgba(0, 0, 0, 0.806);
 }
+
 .box:hover {
   transition: 0.4s ease all;
   transform: scaleY(1.01);
